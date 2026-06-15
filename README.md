@@ -1,4 +1,4 @@
-\# Localhost Multi-Client Chat Application Using TCP Sockets in Python
+# Localhost Multi-Client Chat Application Using TCP Sockets in Python
 
 
 
@@ -6,7 +6,7 @@ A Python chatroom application that can connect multiple clients to a localhost c
 
 
 
-\## Description
+## Description
 
 
 
@@ -14,7 +14,7 @@ This program is a multi-client chat application using TCP sockets in Python. The
 
 
 
-\## Design Overview
+## Design Overview
 
 
 
@@ -22,11 +22,11 @@ I started designing the program with just creating the server sockets and client
 
 
 
-\## Getting Started
+## Getting Started
 
 
 
-\### Dependencies
+### Dependencies
 
 
 
@@ -34,7 +34,7 @@ I started designing the program with just creating the server sockets and client
 
 
 
-\### Installing
+### Installing
 
 
 
@@ -42,7 +42,7 @@ I started designing the program with just creating the server sockets and client
 
 
 
-\### Executing program
+### Executing program
 
 
 
